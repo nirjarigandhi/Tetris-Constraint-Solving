@@ -1,0 +1,8 @@
+{ "test_name": "One Variable Solution",
+	"grid": [[1,1,1,1,1],
+					 [0,0,1,1,1],
+					 [1,0,0,1,1]],
+	"variables": ["z"],
+	"solution": [[[1, 0], 0]],
+	"expected": true
+}

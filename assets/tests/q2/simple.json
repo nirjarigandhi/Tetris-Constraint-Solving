@@ -1,0 +1,8 @@
+{ "test_name": "small passing constraint test",
+	"grid": [[1,1,0,0,1,1],
+					 [1,1,0,0,1,1],
+					 [1,1,1,1,1,1]],
+	"variables": ["o"],
+	"solution": [[[0, 2], 0]],
+	"expected": true
+}

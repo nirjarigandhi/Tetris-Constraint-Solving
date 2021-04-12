@@ -1,0 +1,9 @@
+{ "test_name": "simple future check",
+	"grid": [[1,0,0,1,1,1],
+					 [1,0,1,1,0,1],
+					 [1,0,1,0,0,1],
+					 [1,1,1,0,1,1]],
+	"variables": ["j", "z"],
+	"solution": [0, [[0, 1], 1]],
+	"expected": true
+}
